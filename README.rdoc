@@ -1,0 +1,12 @@
+A simple Contact web app Using Ruby on Rails
+with CRUD Operations
+
+Things you have to Consider :
+
+* Ruby version
+
+* System dependencies
+
+* Database creation
+
+* Database initialization
